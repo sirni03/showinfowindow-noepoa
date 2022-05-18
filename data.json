@@ -1,0 +1,13 @@
+
+[{
+  "id": "First",
+  "name": "First Place - Philadelphia",
+  "lat":39.952584,
+  "lng":-75.165221
+},
+{
+  "id": "Second",
+  "name": "Second Place - Baltimore",
+  "lat":39.290385,
+  "lng":-76.612189 
+}]
